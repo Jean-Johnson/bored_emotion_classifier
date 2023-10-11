@@ -12,6 +12,7 @@ matplotlib = "*"
 tqdm = "*"
 seaborn = "*"
 streamlit = "*"
+torchinfo = "*"
 
 [dev-packages]
 
